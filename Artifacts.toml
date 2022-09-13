@@ -1,0 +1,143 @@
+[[TestU01]]
+arch = "aarch64"
+git-tree-sha1 = "d381ff304bddc76a43e0bab99c1e6b2ef70dbd45"
+os = "macos"
+
+    [[TestU01.download]]
+    sha256 = "c9ecd1a3368aba445326ef18ee67da49065692bd89ec0a9d33a2b435e1ae480e"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.aarch64-apple-darwin.tar.gz"
+[[TestU01]]
+arch = "aarch64"
+git-tree-sha1 = "d3515b1179a160e6261cd9e78c54a69d9a00d76e"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "54867ff1ab1efbc88c850889f9ead97b4899cb6f590c1c6fe2023be67c1e2e79"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.aarch64-linux-gnu.tar.gz"
+[[TestU01]]
+arch = "aarch64"
+git-tree-sha1 = "a97155637dcc44b98f22326d8f64cec7750ffdf6"
+libc = "musl"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "6d5af1bfb997f32767a5439c3557ef19a3c9a2f715848c5e3f9c37f6be5828b5"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.aarch64-linux-musl.tar.gz"
+[[TestU01]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "27c9d6f72907c64726dc84e9c6c67ce55f76437b"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "525eb8f1f68970ce281e2b887261ea703455ea6848e4aaf1aef7ef96c6dc04a8"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.armv6l-linux-gnueabihf.tar.gz"
+[[TestU01]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3e68e409395e3990327f43e6dd97b65f58c7b334"
+libc = "musl"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "9b94a623e593e369ef4ad5748fd949ef5c7254e8a01f7ebdbd8764d4bbfe764c"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.armv6l-linux-musleabihf.tar.gz"
+[[TestU01]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6657f8258f46a7914434c934dceb38cede12a910"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "10a80f4c02defcf859a3c9b7ae4dc698bb05f7af21a92f05cb6b6f4b9dd5a520"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.armv7l-linux-gnueabihf.tar.gz"
+[[TestU01]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a47aedb1a342ed918d6e5e3375ff9796866a8337"
+libc = "musl"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "ae9a3b130060eb1b4e2767fce67095322920827ac0b708eff812847eb308172c"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.armv7l-linux-musleabihf.tar.gz"
+[[TestU01]]
+arch = "i686"
+git-tree-sha1 = "ed7cd735e078be1535074b29a2ba28517a0caa79"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "7dc24a58a4186ed81ca9bfa0efd0026027c3e06670132b4ce69c90ec6c03e33b"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.i686-linux-gnu.tar.gz"
+[[TestU01]]
+arch = "i686"
+git-tree-sha1 = "59a7b5bed77bd01a20f2852019dd292293b9e09b"
+libc = "musl"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "801bf4cef53de20da9d2023d9a2cccd54c82d6c172dfeee7da5d26d524e55c55"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.i686-linux-musl.tar.gz"
+[[TestU01]]
+arch = "i686"
+git-tree-sha1 = "3dab6b3060c00645848107d6a4411581cb67f438"
+os = "windows"
+
+    [[TestU01.download]]
+    sha256 = "9834c115234166946d055dd4f914ad3efc074b0383c9f098beb07024f4a74dce"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.i686-w64-mingw32.tar.gz"
+[[TestU01]]
+arch = "powerpc64le"
+git-tree-sha1 = "26968917945b65907d7fcd1bff77a1f711c85d03"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "40ed06ec82302c2b3f0f982aece3bfe30887b713aa37a0f7c148e12d4196e2bd"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.powerpc64le-linux-gnu.tar.gz"
+[[TestU01]]
+arch = "x86_64"
+git-tree-sha1 = "3d2f3c0ca521e6e168d87e50db50fd3c869bfdf6"
+os = "macos"
+
+    [[TestU01.download]]
+    sha256 = "c47084e067f1ddbeae4c8e22d803ebe5afabdc62c5e5f0ff54cb310ecc639480"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.x86_64-apple-darwin.tar.gz"
+[[TestU01]]
+arch = "x86_64"
+git-tree-sha1 = "c6f96f5bcd8ed4d3debc919b101f994a0f20fce6"
+libc = "glibc"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "b84004c973a69ea056abfa70c41744a33b45ad0f40832a4a2884d5a54ec689e7"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.x86_64-linux-gnu.tar.gz"
+[[TestU01]]
+arch = "x86_64"
+git-tree-sha1 = "137c6c19dd0b840dbec5de5ca1d7d1895ad61545"
+libc = "musl"
+os = "linux"
+
+    [[TestU01.download]]
+    sha256 = "c265af9355eb7a85afdf791c939ba72465355fcaddc7ddea6b1f512cbb8d6d40"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.x86_64-linux-musl.tar.gz"
+[[TestU01]]
+arch = "x86_64"
+git-tree-sha1 = "7d53a5fc90aee672460f7297a843df0f24be1f61"
+os = "freebsd"
+
+    [[TestU01.download]]
+    sha256 = "089bd839866baee4e829d1e6d8af06add9ed8d195781b31d2a020ce5e5331ac7"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.x86_64-unknown-freebsd.tar.gz"
+[[TestU01]]
+arch = "x86_64"
+git-tree-sha1 = "78c6a21235180b321a4cbdcd7a5ba5222ee4bd13"
+os = "windows"
+
+    [[TestU01.download]]
+    sha256 = "c08a4657fc86cd4ecdbd9826eada48663bf7f797f359ef70dfef8cf01bd90177"
+    url = "https://github.com/JuliaBinaryWrappers/TestU01_jll.jl/releases/download/TestU01-v1.2.3+0/TestU01.v1.2.3.x86_64-w64-mingw32.tar.gz"
